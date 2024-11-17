@@ -1,0 +1,59 @@
+{
+    "name": "Operius Remastered",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "Achievements": "github:meeeeeeeep1/achievements#4910ba22f82f73691752a6af29ed23215662723a",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "ts.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.56",
+        "tag": "v1.12.56",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/415ef2df2ac233e8d214fef5f4ea26f2f5de232a",
+        "target": "1.12.57",
+        "pxt": "8.5.67",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "theme": {
+        "skin": "default"
+    },
+    "palette": [
+        "#000000",
+        "#DDD9E8",
+        "#FA1E4E",
+        "#FD96AC",
+        "#FF691F",
+        "#FFDE0A",
+        "#3B58A0",
+        "#78DC52",
+        "#4474EE",
+        "#99B2F0",
+        "#8E2EC4",
+        "#C2BFCA",
+        "#B8052E",
+        "#251F33",
+        "#251F33",
+        "#372D4E"
+    ]
+}
